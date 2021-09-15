@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+#Hi
+#Hello  
+
+
 # Hello 
 
 # Hi 
